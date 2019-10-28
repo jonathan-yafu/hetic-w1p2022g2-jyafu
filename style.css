@@ -1,0 +1,88 @@
+@font-face {
+  font-family: "AntiquaBold";
+  src: url("../Défit\ Front/AntiquaBold.ttf") fotmat("truetype");
+}
+
+.disparition {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 600px;
+  font-size: 16px;
+  line-height: 26px;
+  color: #383f4e;
+  margin-left: 200px;
+}
+
+h1 {
+  font-family: "AntiquaBold";
+  font-style: normal;
+  font-size: 38px;
+  font-weight: 500;
+  width: 75%;
+  margin-left: 200px;
+}
+
+.lemonde {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  color: #717b8e;
+  margin-left: 200px;
+}
+
+.Allen {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #8b92a1;
+  margin-left: 200px;
+}
+p {
+  font-family: "AntiquaBold";
+  font-style: normal;
+  font-size: 18px;
+  line-height: 26px;
+  color: #2a303b;
+  width: 60%;
+  margin-left: 200px;
+}
+
+.optimiste {
+  font-style: italic;
+}
+
+.citation {
+  font-style: italic;
+}
+
+.vie {
+  font-style: italic;
+  font-size: 18px;
+  line-height: 26px;
+  width: 60%;
+  margin-left: 200px;
+}
+
+.créer {
+  font-style: italic;
+}
+
+.Paul {
+  margin-left: 165px;
+}
+
+.curiosité {
+  font-style: italic;
+}
+
+.saluant {
+  font-style: italic;
+}
+
+.nadela {
+  color: aqua;
+  text-decoration-line: none;
+}
+
+aside {
+  margin-left: 200px;
+  font-family: Arial, Helvetica, sans-serif;
+}
